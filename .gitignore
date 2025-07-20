@@ -1,5 +1,10 @@
+# virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
-*.csv
+
+# Test data files
+data/*.csv
 
